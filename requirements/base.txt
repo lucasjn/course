@@ -1,0 +1,4 @@
+Django==2.1.4
+django-auditlog==0.4.4
+django-model-utils==3.0.0
+

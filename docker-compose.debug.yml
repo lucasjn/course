@@ -6,7 +6,7 @@ services:
     build: .
     command: ./runserver
     volumes:
-      - ".:/vogel"
+      - ".:/course"
     ports:
       - 8000:8000
     depends_on:

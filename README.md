@@ -8,6 +8,8 @@ Dependências
 * Python 3.6.5 (Com virtualenv)
 * Django 2.1.4
 * virtualenv
+* Docker
+* Docker-compose
 
 Instalação
 ----------

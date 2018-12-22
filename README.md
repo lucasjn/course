@@ -12,7 +12,7 @@ Dependências
 Instalação
 ----------
 
-    git clone git@github.com:Diorgeles/course.git
+    git clone git@github.com:lucasjn/course.git
     cd course
 
 Rodando o Sistema
